@@ -1,7 +1,7 @@
 # Incentivized review identification on sephora.com
-My 4th project in Metis.  A pipline to predict whether or not an review on sephora.com is incentivized. 
+A pipline to predict whether or not an review on sephora.com is incentivized by using NLP and clustering. 
 
-Take a look at `Incentivized review prediction.pdf` to overview the project.
+Take a look at `Incentivized review prediction.pdf` to overview the project. 
 
 ## Repo structure
 

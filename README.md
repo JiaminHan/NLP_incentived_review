@@ -1,7 +1,7 @@
 # Incentivized review identification on sephora.com
 A pipline to predict whether or not an review on sephora.com is incentivized by using NLP and clustering. 
 
-Take a look at `Incentivized review prediction.pdf` to overview the project. 
+Take a look at `Incentivized review prediction.pdf` to overview the project. For more detailed information, here's my [blog post](https://medium.com/@jiaminhan/using-nlp-to-identify-fake-reviews-on-beauty-product-510dfe29e112).
 
 ## Repo structure
 
